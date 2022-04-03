@@ -1,0 +1,16 @@
+#################
+## Maven
+#################
+/target/
+/*/target/
+/*/*/target/
+/*/*/*/target/
+
+
+#################
+## Eclipse
+#################
+.project
+.metadata
+.classpath
+.settings/
